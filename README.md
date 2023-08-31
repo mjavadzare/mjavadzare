@@ -1,4 +1,4 @@
-Hi 👋 My name is Mohamad Javad Zare
+<h1 align="center">Hi 👋 My name is Mohamad Javad Zare</h1>
 ===================================
 
 <h3 align="center">Web Develoeper - Computer Science Student</h3>
