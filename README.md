@@ -25,18 +25,17 @@ I've been learning python since 2022, As of now, I'm a Computer Science student 
                     <picture>
                     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
                     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-                    
                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
                     </picture>
                     </a>
-                      <a href="http://www.instagram.com/mmd.javad__" target="_blank" rel="noreferrer">
+                      <a href="http://www.instagram.com/mmd.javad__/" target="_blank" rel="noreferrer">
                     <picture>
                     <source media="(prefers-color-scheme: dark)" srcset="undefined" />
                     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" />
                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
                     </picture>
                     </a>
-                      <a href="https://www.linkedin.com/in/mohamad-javad-zare-285062244" target="_blank" rel="noreferrer">
+                      <a href="https://www.linkedin.com/in/mohamad-javad-zare-285062244/" target="_blank" rel="noreferrer">
                     <picture>
                     <source media="(prefers-color-scheme: dark)" srcset="undefined" />
                     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
