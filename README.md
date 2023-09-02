@@ -32,10 +32,10 @@ I've been learning python since 2022. As of now, I'm a Computer Science student 
 
 <a href="http://www.github.com/mjz589"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mjz589&stroke=ffffff&background=1c1917&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<b>Top Repositories</b>
+<!-- <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/mjz589/Django-CBV-TodoApp" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mjz589&repo=Django-CBV-TodoApp&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/mjz589/First-Site-with-Django-4.2" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mjz589&repo=First-Site-with-Django-4.2&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 <br /><br /><br /><br /><br />
 
-<div width="100%" align="center"><a href="https://github.com/mjz589/Agriculture-Dashboard" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mjz589&repo=Agriculture-Dashboard&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/mjz589/Machine-Learning-first-project" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mjz589&repo=Machine-Learning-first-project&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center"><a href="https://github.com/mjz589/Agriculture-Dashboard" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mjz589&repo=Agriculture-Dashboard&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/mjz589/Machine-Learning-first-project" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mjz589&repo=Machine-Learning-first-project&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" /></a></div> --!>
