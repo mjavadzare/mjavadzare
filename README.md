@@ -4,7 +4,7 @@
 <h3 align="center">Web Develoeper - Computer Science Student</h3>
 <!-- ----------------------------------------- -->
 
-I've been learning python since 2022. As of now, I'm a Computer Science student in Bojnourd university. My English language skills except for speaking are pretty good. I've been learning Django and REST framework for Back-end Web Development. I've also learned about regex and a little bit Machine Learning in Python.
+I've been learning python since 2022. As of now, I'm a Computer Science student in Bojnourd university. My English language skills except for speaking are pretty good. I've been learning Django and REST framework for Back-end Web Development. I've also learned about Web Scraping and a little bit Machine Learning in Python.
 
 * 🌍  I'm based in Iran - Bojnourd
 * 🖥️  See my portfolio at [CV](http://mjz589.github.io/)
