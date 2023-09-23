@@ -9,7 +9,7 @@ I've been learning python since 2022. As of now, I'm a Computer Science student 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mjz589&label=Profile%20views&color=7F00FF&style=flat" alt="mjz589" /> </p>
 
-- 🔭 I’m currently working on [Todo App](https://github.com/mjz589/Django-CBV-TodoApp)
+- 🔭 I’m currently working on **[Todo App](https://github.com/mjz589/Django-CBV-TodoApp)**
 - 🤝 I’m looking to collaborate on **Web Development and ML**
 - 🌱 I’m currently learning **<a href="https://www.django-rest-framework.org/">Django REST framework<a>**
 - 💬 Ask me about **Python, Django**
