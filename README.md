@@ -49,7 +49,7 @@ I've been learning python since 2022. As of now, I'm a Computer Science student 
 </p>
 
 <h3 align="left">Stars</h3>
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=mjz589&show_icons=true&locale=en&theme=buefy" alt="mjz589" /></p>
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=mohamadjavadzare&show_icons=true&locale=en&theme=buefy" alt="mjz589" /></p>
 
 <!-- <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mjz589&theme=buefy" alt="mjz589" /></p> --!>
 
