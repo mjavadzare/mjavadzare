@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohamad Javad Zare</h1>
+<h1 align="center">Hi 👋, I'm Mohammad Javad Zare</h1>
 <!-- =================================== -->
 
 <h3 align="center">Web Develoeper - Computer Science Student</h3>
@@ -16,7 +16,7 @@ I've been learning python since 2022. As of now, I'm a Computer Science student 
 - 📫 How to reach me **mjz589.2018@gmail.com**
 - 👨‍💻 All of my projects are available at **<a href="https://github.com/mohamadjavadzare">Github<a>** and **<a href="https://mmd-javad.ir/">My Site<a>**
 - 📝 I regularly write articles on **<a href="http://mmd-javad.ir">mmd-javad.ir<a>**
-- 📄 Know about my experiences in **<a href="http://mohamadjavadzare.github.io">my CV<a>**
+- 📄 Know about my experiences in **<a href="http://mjavadzare.github.io">my CV<a>**
 - ⚡ If my name is too hard to spell for you, **just call me Mikey. :)**
 
 <div> <a href="https://www.linkedin.com/in/mohamad-javad-zare" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -25,7 +25,7 @@ I've been learning python since 2022. As of now, I'm a Computer Science student 
 <a href = "mailto:mjz589.2018@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mohamad-javad-zare" target="blank"><img align="center" src="/linkedin.png" alt="mohamad-javad-zare" height="30" width="30" /></a> <a href="https://instagram.com/mmd.javad__" target="blank"><img align="center" src="/instagram.png" alt="mmd.javad__" height="30" width="30" /> </a><a href="https://t.me/www_mohammad" target="blank"><img align="center" src="/telegram.png" alt="www_mohammad" height="30" width="30" /></a></p>
+<a href="https://linkedin.com/in/mohammad-javad-zare" target="blank"><img align="center" src="/linkedin.png" alt="mohammad-javad-zare" height="30" width="30" /></a> <a href="https://instagram.com/mmd.javad__" target="blank"><img align="center" src="/instagram.png" alt="mmd.javad__" height="30" width="30" /> </a><a href="https://t.me/www_mohammad" target="blank"><img align="center" src="/telegram.png" alt="www_mohammad" height="30" width="30" /></a></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
