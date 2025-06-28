@@ -9,18 +9,18 @@ I've been learning python since 2022. As of now, I'm a Computer Science student 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mjz589&label=Profile%20views&color=7F00FF&style=flat" alt="mjz589" /> </p>
 
-- 🔭 I’m currently working on **[UBPC Contest](https://ubpc.ir/)**
+- 🔭 I’m currently working on **-**
 - 🤝 I’m looking to collaborate on **Web Development** and **ML**
-- 🌱 I’m currently learning **<a href="https://www.django-rest-framework.org/">Django REST framework<a>**
+- 🌱 I’m currently learning **Machine Learning**
 - 💬 Ask me about **Python, Django**
 - 📫 How to reach me **mjz589.2018@gmail.com**
-- 👨‍💻 All of my projects are available at **<a href="https://github.com/mohamadjavadzare">Github<a>** and **<a href="https://mmd-javad.ir/">My Site<a>**
+- 👨‍💻 All of my projects are available at **<a href="https://github.com/mjavadzare">Github<a>** and **<a href="https://mmd-javad.ir/">My Site<a>**
 - 📝 I regularly write articles on **<a href="http://mmd-javad.ir">mmd-javad.ir<a>**
 - 📄 Know about my experiences in **<a href="http://mjavadzare.github.io">my CV<a>**
 - ⚡ If my name is too hard to spell for you, **just call me Mikey. :)**
 
-<div> <a href="https://www.linkedin.com/in/mohamad-javad-zare" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://github.com/mohamadjavadzare" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<div> <a href="https://www.linkedin.com/in/mohammad-javad-zare" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://github.com/mjavadzare" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/mmd.javad__" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:mjz589.2018@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Connect with me:</h3>
@@ -49,7 +49,7 @@ I've been learning python since 2022. As of now, I'm a Computer Science student 
 </p>
 
 <h3 align="left">Stars</h3>
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=mohamadjavadzare&show_icons=true&locale=en&theme=buefy" alt="mjz589" /></p>
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=mjavadzare&show_icons=true&locale=en&theme=buefy" alt="mjz589" /></p>
 
 <!-- <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mjz589&theme=buefy" alt="mjz589" /></p> --!>
 
