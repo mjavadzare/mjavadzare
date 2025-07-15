@@ -7,6 +7,7 @@
 I've been learning python since 2022. As of now, I'm a Computer Science student in Bojnourd university. My English language skills except for speaking are pretty good. I've been learning Django and REST framework for Back-end Web Development. I've also learned about Web Scraping and a little bit Machine Learning in Python.
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mjz589&label=Profile%20views&color=7F00FF&style=flat" alt="mjz589" /> </p> -->
+</br>
 
 
 - 🔭 I’m currently working on **-**
