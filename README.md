@@ -15,8 +15,7 @@ I've been learning python since 2022. As of now, I'm a Computer Science student 
 - 🌱 I’m currently learning **Machine Learning**
 - 💬 Ask me about **Python, Django**
 - 📫 How to reach me **mjz589.2018@gmail.com**
-- 👨‍💻 All of my projects are available at **<a href="https://github.com/mjavadzare">Github<a>** and **<a href="https://mmd-javad.ir/">My Site<a>**
-- 📝 I regularly write articles on **<a href="http://mmd-javad.ir">mmd-javad.ir<a>**
+- 👨‍💻 All of my projects are available at **<a href="https://github.com/mjavadzare">Github<a>** <!-- and **<a href="https://mmd-javad.ir/">My Site<a>** --><!-- - 📝 I regularly write articles on **<a href="http://mmd-javad.ir">mmd-javad.ir<a>** -->
 - 📄 Know about my experiences in **<a href="http://mjavadzare.github.io">my CV<a>**
 - ⚡ If my name is too hard to spell for you, **just call me Mikey. :)**
 
