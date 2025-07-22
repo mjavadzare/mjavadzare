@@ -1,10 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mohammad Javad Zare</h1>
 <!-- =================================== -->
 
-<h3 align="center">Web Develoeper - Computer Science Student</h3>
+<h3 align="center">Backend Developer | Computer Science Graduate | AI/ML Learner</h3>
 <!-- ----------------------------------------- -->
 
-I've been learning python since 2022. As of now, I'm a Computer Science student in Bojnourd university. My English language skills except for speaking are pretty good. I've been learning Django and REST framework for Back-end Web Development. I've also learned about Web Scraping and a little bit Machine Learning in Python.
+I am a Computer Science graduate from Bojnourd University with a strong passion for AI and Data Science.
+As a backend developer, I specialize in building scalable and efficient systems using Django and Django REST Framework.
+I also have practical experience in Web Scraping and foundational knowledge in Machine Learning.
+Currently, I am actively enhancing my skills in AI/ML to develop intelligent solutions.
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mjz589&label=Profile%20views&color=7F00FF&style=flat" alt="mjz589" /> </p> -->
 </br>
