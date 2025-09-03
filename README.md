@@ -14,8 +14,8 @@ Currently, I am actively enhancing my skills in AI/ML to develop intelligent sol
 
 
 - 🔭 I’m currently working on **-**
-- 🤝 I’m looking to collaborate on **Web Development** and **ML**
-- 🌱 I’m currently learning **Machine Learning**
+- 🤝 I’m looking to collaborate on **Web Development** and **AI/ML**
+- 🌱 I’m currently learning **Pytorch**
 - 💬 Ask me about **Python, Django**
 - 📫 How to reach me **mjz589.2018@gmail.com**
 - 👨‍💻 All of my projects are available at **<a href="https://github.com/mjavadzare">Github<a>** <!-- and **<a href="https://mmd-javad.ir/">My Site<a>** --><!-- - 📝 I regularly write articles on **<a href="http://mmd-javad.ir">mmd-javad.ir<a>** -->
