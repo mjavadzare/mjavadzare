@@ -4,9 +4,9 @@
 <h3 align="center">Backend Developer | Computer Science Graduate | AI/ML Learner</h3>
 <!-- ----------------------------------------- -->
 
-I am a Computer Science graduate from Bojnourd University with a strong passion for AI and Data Science.
+I am a Computer Science graduate from Bojnord University with a strong passion for AI and Data Science.
 As a backend developer, I specialize in building scalable and efficient systems using Django and Django REST Framework.
-I also have practical experience in Web Scraping and foundational knowledge in Machine Learning.
+I also have practical experience in Web Scraping and Machine Learning.
 Currently, I am actively enhancing my skills in AI/ML to develop intelligent solutions.
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mjz589&label=Profile%20views&color=7F00FF&style=flat" alt="mjz589" /> </p> -->
