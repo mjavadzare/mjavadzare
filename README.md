@@ -1,20 +1,14 @@
 <h1 align="center">Hi 👋, I'm Mohammad Javad Zare</h1>
 <!-- =================================== -->
 
-<h3 align="center">Backend Developer | Computer Science Graduate | AI/ML Learner</h3>
+<h3 align="center">Computer Science Graduate | AI/ML Learner | Backend Developer</h3>
 <!-- ----------------------------------------- -->
-
-I am a Computer Science graduate from Bojnord University with a strong passion for AI and Data Science.
-As a backend developer, I specialize in building scalable and efficient systems using Django and Django REST Framework.
-I also have practical experience in Web Scraping and Machine Learning.
-Currently, I am actively enhancing my skills in AI/ML to develop intelligent solutions.
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mjz589&label=Profile%20views&color=7F00FF&style=flat" alt="mjz589" /> </p> -->
 </br>
 
 
 - 🔭 I’m currently working on **-**
-- 🤝 I’m looking to collaborate on **Web Development** and **AI/ML**
 - 🌱 I’m currently learning **Agentic AI**
 - 💬 Ask me about **Django, ML**
 - 📫 How to reach me **mjz589.2018@gmail.com**
