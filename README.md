@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohammad Javad Zare</h1>
+<h1 align="center">Mohammad Javad Zare</h1>
 <!-- =================================== -->
 
 <h3 align="center">Computer Science Graduate | AI/ML Learner | Backend Developer</h3>
