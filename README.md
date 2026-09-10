@@ -15,8 +15,8 @@ Currently, I am actively enhancing my skills in AI/ML to develop intelligent sol
 
 - 🔭 I’m currently working on **-**
 - 🤝 I’m looking to collaborate on **Web Development** and **AI/ML**
-- 🌱 I’m currently learning **OpenCV**
-- 💬 Ask me about **Python, Django**
+- 🌱 I’m currently learning **Agentic AI**
+- 💬 Ask me about **Django, ML**
 - 📫 How to reach me **mjz589.2018@gmail.com**
 - 👨‍💻 All of my projects are available at **<a href="https://github.com/mjavadzare">Github<a>** <!-- and **<a href="https://mmd-javad.ir/">My Site<a>** --><!-- - 📝 I regularly write articles on **<a href="http://mmd-javad.ir">mmd-javad.ir<a>** -->
 - 📄 Know about my experiences in **<a href="https://mjavadzare.github.io/mohammad-javad-zare.pdf">my CV<a>**
@@ -30,7 +30,7 @@ Currently, I am actively enhancing my skills in AI/ML to develop intelligent sol
 <p align="left">
 <a href="https://linkedin.com/in/mohammad-javad-zare" target="blank"><img align="center" src="/linkedin.png" alt="mohammad-javad-zare" height="30" width="30" /></a> <a href="https://instagram.com/mmd.javad__" target="blank"><img align="center" src="/instagram.png" alt="mmd.javad__" height="30" width="30" /> </a><a href="https://t.me/www_mohammad" target="blank"><img align="center" src="/telegram.png" alt="www_mohammad" height="30" width="30" /></a></p> -->
 
-<h3 align="left">Languages and Tools:</h3>
+<!-- <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/csharp-original.svg" alt="Csharp" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/cplusplus-original.svg" alt="CPP" width="40" height="40"/>
@@ -47,4 +47,4 @@ Currently, I am actively enhancing my skills in AI/ML to develop intelligent sol
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
-</p>
+</p> -->
