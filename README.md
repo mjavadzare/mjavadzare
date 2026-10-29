@@ -1,7 +1,7 @@
 <h1 align="center">Mohammad Javad Zare</h1>
 <!-- =================================== -->
 
-<h3 align="center">Computer Science Graduate | AI/ML Learner | Backend Developer</h3>
+<h3 align="center">Computer Science - Artificial Intelligence | AI/ML Learner | Backend Developer</h3>
 <!-- ----------------------------------------- -->
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mjz589&label=Profile%20views&color=7F00FF&style=flat" alt="mjz589" /> </p> -->
