@@ -10,10 +10,10 @@
 
 - 🔭 I’m currently working on **-**
 - 🌱 I’m currently learning **Agentic AI**
-- 💬 Ask me about **Django, ML**
+- 💬 Ask me about **Machine Learning**
 - 📫 How to reach me **mjz589.2018@gmail.com**
 - 👨‍💻 All of my projects are available at **<a href="https://github.com/mjavadzare">Github<a>** <!-- and **<a href="https://mmd-javad.ir/">My Site<a>** --><!-- - 📝 I regularly write articles on **<a href="http://mmd-javad.ir">mmd-javad.ir<a>** -->
-- 📄 Know about my experiences in **<a href="https://mjavadzare.github.io/mohammad-javad-zare.pdf">my CV<a>**
+- 📄 Know about my experiences in **<a href="https://mjavadzare.github.io">my CV<a>**
 
 </div><h3 align="left">Connect with me:</h3>
 <div> <a href="https://www.linkedin.com/in/mohammad-javad-zare" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
