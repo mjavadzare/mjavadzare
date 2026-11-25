@@ -23,7 +23,7 @@ MSc in Computer Science (*Soft Computing & AI*) @ **University of Tehran**
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **[Medical AI Platform](https://github.com/mjavadzare/medical-ai-platform)** | Modular deep learning framework & diabetic retinopathy pipeline *(In Progress)* | `PyTorch` `Pandas` `Matplotlib` |
+| **[Medical AI Platform](https://github.com/mjavadzare/medical-ai-platform)** | End-to-end 5-class DR screening platform: calibrated ResNet50 (**0.898 QWK**), Grad-CAM++ XAI & **3.95x** ONNX CPU serving | `PyTorch` `ONNX` `FastAPI` `Streamlit` `Docker` |
 | **[Credit Card Fraud Detection](https://github.com/mjavadzare/credit-card-fraud-detection)** | Imbalanced classification & PR threshold optimization (ElasticNet vs. LightGBM) | `Scikit-learn` `LightGBM` `NumPy` |
 | **[Blog Platform (Django & DRF)](https://github.com/mjavadzare/Django-Blog-CBV-DRF)** | Containerized RESTful API with asynchronous task queues | `Django` `DRF` `PostgreSQL` `Redis` `Celery` `Docker` |
 
@@ -33,14 +33,18 @@ MSc in Computer Science (*Soft Computing & AI*) @ **University of Tehran**
   <img src="https://img.shields.io/badge/Python-091413?style=flat-square&logo=python&logoColor=B0E4CC" alt="Python" />
   <img src="https://img.shields.io/badge/C%2B%2B-091413?style=flat-square&logo=cplusplus&logoColor=B0E4CC" alt="C++" />
   <img src="https://img.shields.io/badge/PyTorch-285A48?style=flat-square&logo=pytorch&logoColor=B0E4CC" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/ONNX-285A48?style=flat-square&logo=onnx&logoColor=B0E4CC" alt="ONNX" />
   <img src="https://img.shields.io/badge/OpenCV-285A48?style=flat-square&logo=opencv&logoColor=B0E4CC" alt="OpenCV" />
   <img src="https://img.shields.io/badge/Scikit--learn-285A48?style=flat-square&logo=scikitlearn&logoColor=B0E4CC" alt="Scikit-learn" />
   <img src="https://img.shields.io/badge/Pandas-285A48?style=flat-square&logo=pandas&logoColor=B0E4CC" alt="Pandas" />
+  <img src="https://img.shields.io/badge/FastAPI-408A71?style=flat-square&logo=fastapi&logoColor=B0E4CC" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Streamlit-408A71?style=flat-square&logo=streamlit&logoColor=B0E4CC" alt="Streamlit" />
   <img src="https://img.shields.io/badge/Django-408A71?style=flat-square&logo=django&logoColor=B0E4CC" alt="Django" />
   <img src="https://img.shields.io/badge/DRF-408A71?style=flat-square&logo=django&logoColor=B0E4CC" alt="DRF" />
   <img src="https://img.shields.io/badge/PostgreSQL-408A71?style=flat-square&logo=postgresql&logoColor=B0E4CC" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Redis-408A71?style=flat-square&logo=redis&logoColor=B0E4CC" alt="Redis" />
   <img src="https://img.shields.io/badge/Docker-091413?style=flat-square&logo=docker&logoColor=B0E4CC" alt="Docker" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-091413?style=flat-square&logo=githubactions&logoColor=B0E4CC" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/Linux-091413?style=flat-square&logo=linux&logoColor=B0E4CC" alt="Linux" />
   <img src="https://img.shields.io/badge/Git-091413?style=flat-square&logo=git&logoColor=B0E4CC" alt="Git" />
   <img src="https://img.shields.io/badge/LaTeX-091413?style=flat-square&logo=latex&logoColor=B0E4CC" alt="LaTeX" />
